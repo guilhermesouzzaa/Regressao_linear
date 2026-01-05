@@ -23,4 +23,3 @@ pandas
 numpy
 
 scikit-learn
-yfinance****
